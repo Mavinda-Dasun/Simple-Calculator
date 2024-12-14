@@ -1,0 +1,12 @@
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\bin\Debug\Guna.UI2.dll
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.csproj.Up2Date
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\MAVINDA\Documents\Visual Studio 2022\Projects\Calculator\obj\Debug\Calculator.pdb
